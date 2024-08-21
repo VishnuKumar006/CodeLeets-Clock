@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(18, 8, 18);
+}
+
+.text-center:hover{
+    transform: translateY(20px);
+    transition: 2.5s linear all;
+}
